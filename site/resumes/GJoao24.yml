@@ -28,9 +28,11 @@ basic_info:
   stack-overflow: null
   languages:
     - idiom: English
-      level: Basic
+      level: Basico
+
     - idiom: Catalán
       level: Intermedio
+      
     - idiom: Spanish
       level: Professional
   interests:
